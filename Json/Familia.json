@@ -1,0 +1,36 @@
+{
+    "DatosDeFamilia": [{
+
+            "Familiar": "Padre",
+            "Nombres": "Carlos Jose",
+            "Apellidos": "Devia Orellano",
+            "Edad": 40
+
+        },
+
+        {
+            "Familiar": "Madre",
+            "Nombres": "Mildred",
+            "Apellidos": "Ibarra",
+            "Edad": 35
+
+        },
+
+
+        {
+            "Familiar": "Hermanito",
+            "Nombres": "Cristian Jose",
+            "Apellidos": "Devia Ibarra",
+            "Edad": 13
+
+        },
+
+        {
+            "Familiar": "Hermanita",
+            "Nombres": "Kiara Isabel",
+            "Apellidos": "Devia Ibarra",
+            "Edad": 5
+
+        }
+    ]
+}
